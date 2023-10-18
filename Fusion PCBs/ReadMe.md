@@ -12,7 +12,7 @@
 
 - Pick what PCB you want .
 
-- Upload gerber Zipped to jlcpcb or similar .
+- Upload Gerber-Zipped.zip to jlcpcb or similar .
 
 - If you want assembled add BOM & Pick N Place. (I recommend getting camera assembled)
 
