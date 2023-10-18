@@ -1,6 +1,6 @@
 # Whats This ?
 
-- A collection of PCBs created/paid for by  by Fusion Lightguns.
+- A collection of PCBs created/paid for by Fusion Lightguns.
 
 # Who made these ? 
 
