@@ -18,7 +18,9 @@
 
 - Jlcpcb should walk you through the rest.
 
+- Most require 5 minimum FYI.
 
-# Where can I just buy one PCB? 
+
+# Where can I buy one just one PCB? 
 
 - Soon I will have them listed on my website. I want to build stock first.
