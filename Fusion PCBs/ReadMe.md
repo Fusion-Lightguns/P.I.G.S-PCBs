@@ -5,3 +5,20 @@
 # Who made these ? 
 
 - A variation of Freelancers on Fiverr mainly.
+
+# How do I order these? 
+
+- Download this repo
+
+- Pick what PCB you want .
+
+- Upload gerber Zipped to jlcpcb or similar .
+
+- If you want assembled add BOM & Pick N Place. (I recommend getting camera assembled)
+
+- Jlcpcb should walk you through the rest.
+
+
+# Where can I just buy one PCB? 
+
+- Soon I will have them listed on my website. I want to build stock first.
