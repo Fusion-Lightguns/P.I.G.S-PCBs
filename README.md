@@ -6,7 +6,7 @@
 
 - These boards are designed to make your DIY life easier . Feel free to use, mod, remix etc.
 
-- If using breakout boards use breakout uf2 files see more here(coming soon)
+- If using breakout boards use breakout uf2 files see more [here](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/blob/main/Breakout-PCBs/ReadMe.md)
 
 
 ### Most PCBs will work with other Lightgun systems.
