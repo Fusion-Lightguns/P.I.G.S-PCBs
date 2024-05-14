@@ -8,6 +8,10 @@
 
 - If using breakout boards use breakout uf2 files see more [here](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/blob/main/Breakout-PCBs/ReadMe.md)
 
+### Confused On How To Order PCBs?
+
+- For ordering instructions please see [How To Order PCBs](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/blob/main/How-To-Order.md)
+
 
 ### Most PCBs will work with other Lightgun systems.
 
