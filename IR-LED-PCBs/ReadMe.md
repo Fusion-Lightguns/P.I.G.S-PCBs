@@ -11,7 +11,7 @@
 
 - [1/4w 25ohm Resistor ](https://amzn.to/3Lp8Zrx) You will need 1 per PCB.
 
-- [Barrel Jack](https://a.co/d/3gGxRyi) You will need one oer pcb .
+- [Barrel Jack](https://a.co/d/3gGxRyi) You will need one per pcb .
 
 # Suggested Additional Parts #
 - [Barrel Jack Splitter](https://a.co/d/0fGnBxz)
