@@ -5,7 +5,7 @@
 ![Internet-Pic](https://github.com/user-attachments/assets/3d81809d-8e84-48bf-9d76-b738913d0466)
 
 
-# Parts Needed to DIY#
+# Parts Needed to DIY #
 
 - The PCB itself.
 - [IR LED (Clear)](https://amzn.to/416dUVD). You will need 3 per PCB.
