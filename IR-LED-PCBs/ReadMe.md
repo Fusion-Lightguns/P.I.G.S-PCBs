@@ -7,7 +7,6 @@
 # Parts Needed to DIY#
 
 - The PCB itself.
-- 
 - [IR LED (Clear)](https://amzn.to/416dUVD). You will need 3 per PCB.
 
 - [1/4w 25ohm Resistor ](https://amzn.to/3Lp8Zrx) You will need 1 per PCB.
