@@ -8,12 +8,22 @@
 # Parts Needed to DIY #
 
 - The PCB itself.
-**" Amazon Links ***
+
+### Amazon Links ###
 - [IR LED (Clear)](https://amzn.to/416dUVD). You will need 3 per PCB.
 
 - [1/4w 25ohm Resistor ](https://amzn.to/3Lp8Zrx) You will need 1 per PCB.
 
 - [Barrel Jack](https://a.co/d/3gGxRyi) You will need one per pcb .
 
+### Mouser Links ###
+- Coming Soon
+
 # Suggested Additional Parts #
+
+### Amazon Links ###
+
 - [Barrel Jack Splitter](https://a.co/d/0fGnBxz)
+
+### Mouser Links ###
+- Coming soon.
