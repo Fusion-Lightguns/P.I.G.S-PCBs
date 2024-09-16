@@ -17,11 +17,11 @@
 - Keeboar2040 boards are interchangeable with pro micro. (Orginally designed for pro micro)
 
 
-# Confused On How To Order PCBs?
+### Confused On How To Order PCBs?
 
 - For ordering instructions please see [How To Order PCBs](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/blob/main/How-To-Order.md)
 
-# Just want To Buy One Not 5? (5 is minimum on most sites)
+### Just want 1 Not 5? (5 is minimum on most sites)
 
 - Please see [Fusion Lightguns DIY PCBS](https://www.fusionlightguns.com/shop/DIY-PCBs/9)
 
