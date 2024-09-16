@@ -30,7 +30,8 @@
 # PCB Pics 
 
 ### IR LED Board 
-![Internet-Pic](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/assets/118452807/2c5fea0e-2e4e-4b5f-ae65-e51d3a1327b1)
+![Internet-Pic](https://github.com/user-attachments/assets/968ce614-377b-45d5-a0ca-c6ad8a621484)
+
 
 ### Breakout PCBs
 
