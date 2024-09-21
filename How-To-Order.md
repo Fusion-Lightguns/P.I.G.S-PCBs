@@ -15,4 +15,4 @@
 - Enjoy!!!!
 
 ## Video Instructions
-- Coming Soon
+- [Video Instructions](https://youtu.be/oRVoXZW3Ke8?si=VC_UZid1eG6YnhnU)
