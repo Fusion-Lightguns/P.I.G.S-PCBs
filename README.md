@@ -41,5 +41,9 @@
 #### KeeBoar 2040 Big 
 ![Internet-Pic](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/assets/118452807/96ff2e97-0a68-4c3f-b534-ecbb25d1fc49)
 
+# Solenoid/Rumble PCB
+![Internet-Pic](https://github.com/user-attachments/assets/a2183984-7e9e-4368-8497-82d821cf43f5)
+
+
 ### Camera PCB
 ![Internet-Pic](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/assets/118452807/66c99c1d-5c7a-482d-9d58-2197326b4e73)
