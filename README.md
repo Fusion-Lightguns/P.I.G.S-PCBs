@@ -14,7 +14,7 @@
 
 - IR LED board will work with any IR LED gun system.
 
-- Keeboar2040 boards are interchangeable with pro micro. (Orginally designed for pro micro)
+- Top Shot ocb are jist buttons shaped like thier PCBS.
 
 
 ### Confused On How To Order PCBs?
@@ -32,18 +32,10 @@
 ### IR LED Board 
 ![Internet-Pic](https://github.com/user-attachments/assets/968ce614-377b-45d5-a0ca-c6ad8a621484)
 
-
-### Breakout PCBs
-
-#### KeeBoar 2040 Small
-![Internet-Pic](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/assets/118452807/9f419332-d6bd-4fd8-b4a4-74a094bdad42)
-
-#### KeeBoar 2040 Big 
-![Internet-Pic](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/assets/118452807/96ff2e97-0a68-4c3f-b534-ecbb25d1fc49)
-
-# Solenoid/Rumble PCB
-![Internet-Pic](https://github.com/user-attachments/assets/a2183984-7e9e-4368-8497-82d821cf43f5)
-
-
 ### Camera PCB
 ![Internet-Pic](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/assets/118452807/66c99c1d-5c7a-482d-9d58-2197326b4e73)
+
+## Top Shot Dpad 
+![dpad_top](https://github.com/user-attachments/assets/7f609d26-54db-491a-acc9-2a5d68a0a73b)
+![dpad_bottom](https://github.com/user-attachments/assets/80c4663b-4c76-403c-91d2-e077af73ef8e)
+
