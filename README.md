@@ -29,7 +29,8 @@
 # PCB Pics 
 
 ### IR LED Board 
-![Internet-Pic](https://github.com/user-attachments/assets/968ce614-377b-45d5-a0ca-c6ad8a621484)
+![2D TOP IR LED PCB-1](https://github.com/user-attachments/assets/7d0e4ce7-dd33-447b-9f8a-4ef390fdc3f5)
+
 
 ### Camera PCB
 ![Internet-Pic](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/assets/118452807/66c99c1d-5c7a-482d-9d58-2197326b4e73)
