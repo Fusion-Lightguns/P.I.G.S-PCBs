@@ -11,16 +11,16 @@
 
 #### Examples: 
 
-- IR LED board will work with any IR LED gun system.
+- IR LED board will work with any 940nm IR LED gun system.
 
-- Top Shot ocb are jist buttons shaped like thier PCBS.
+- Top Shot PCB are just buttons shaped like thier PCBS.
 
 
 ### Confused On How To Order PCBs?
 
 - For ordering instructions please see [How To Order PCBs](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs/blob/main/How-To-Order.md)
 
-### Just want 1 Not 5? (5 is minimum on most sites)
+### Just want 1 or a set Not 5? (5 is minimum on most sites)
 
 - Please see [Fusion Lightguns DIY PCBS](https://www.fusionlightguns.com/shop/DIY-PCBs/9)
 
